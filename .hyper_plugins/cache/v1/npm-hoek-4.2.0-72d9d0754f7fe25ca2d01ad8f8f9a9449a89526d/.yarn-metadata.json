@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hoek/-/hoek-4.2.0.tgz#72d9d0754f7fe25ca2d01ad8f8f9a9449a89526d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hoek/-/hoek-4.2.0.tgz",
+    "hash": "72d9d0754f7fe25ca2d01ad8f8f9a9449a89526d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "72d9d0754f7fe25ca2d01ad8f8f9a9449a89526d"
+}

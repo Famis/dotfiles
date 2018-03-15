@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-firewatch/-/hyper-firewatch-0.3.0.tgz#dee642e8213afbee34bde4095dd5d08503abcaf0",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-firewatch/-/hyper-firewatch-0.3.0.tgz",
+    "hash": "dee642e8213afbee34bde4095dd5d08503abcaf0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dee642e8213afbee34bde4095dd5d08503abcaf0"
+}

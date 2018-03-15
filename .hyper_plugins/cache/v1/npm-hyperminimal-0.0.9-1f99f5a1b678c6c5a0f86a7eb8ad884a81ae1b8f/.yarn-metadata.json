@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperminimal/-/hyperminimal-0.0.9.tgz#1f99f5a1b678c6c5a0f86a7eb8ad884a81ae1b8f",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperminimal/-/hyperminimal-0.0.9.tgz",
+    "hash": "1f99f5a1b678c6c5a0f86a7eb8ad884a81ae1b8f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1f99f5a1b678c6c5a0f86a7eb8ad884a81ae1b8f"
+}

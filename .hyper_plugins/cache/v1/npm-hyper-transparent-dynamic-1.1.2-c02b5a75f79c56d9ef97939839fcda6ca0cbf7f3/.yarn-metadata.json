@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-transparent-dynamic/-/hyper-transparent-dynamic-1.1.2.tgz#c02b5a75f79c56d9ef97939839fcda6ca0cbf7f3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-transparent-dynamic/-/hyper-transparent-dynamic-1.1.2.tgz",
+    "hash": "c02b5a75f79c56d9ef97939839fcda6ca0cbf7f3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c02b5a75f79c56d9ef97939839fcda6ca0cbf7f3"
+}

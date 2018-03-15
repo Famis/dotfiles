@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-monokai/-/hyper-monokai-1.0.2.tgz#f24500ef0238f6203125cc615cff0b3dae876488",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-monokai/-/hyper-monokai-1.0.2.tgz",
+    "hash": "f24500ef0238f6203125cc615cff0b3dae876488",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f24500ef0238f6203125cc615cff0b3dae876488"
+}

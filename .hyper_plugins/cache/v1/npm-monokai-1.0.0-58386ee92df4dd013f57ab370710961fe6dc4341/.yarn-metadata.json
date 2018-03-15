@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/monokai/-/monokai-1.0.0.tgz#58386ee92df4dd013f57ab370710961fe6dc4341",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/monokai/-/monokai-1.0.0.tgz",
+    "hash": "58386ee92df4dd013f57ab370710961fe6dc4341",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "58386ee92df4dd013f57ab370710961fe6dc4341"
+}

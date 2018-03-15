@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperterm-overlay/-/hyperterm-overlay-0.4.0.tgz#bb5960e96b5b28a6496b4618aa6610dcc403629e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperterm-overlay/-/hyperterm-overlay-0.4.0.tgz",
+    "hash": "bb5960e96b5b28a6496b4618aa6610dcc403629e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bb5960e96b5b28a6496b4618aa6610dcc403629e"
+}

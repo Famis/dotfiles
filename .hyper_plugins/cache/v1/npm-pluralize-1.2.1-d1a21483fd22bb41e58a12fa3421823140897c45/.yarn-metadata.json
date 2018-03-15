@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/pluralize/-/pluralize-1.2.1.tgz#d1a21483fd22bb41e58a12fa3421823140897c45",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/pluralize/-/pluralize-1.2.1.tgz",
+    "hash": "d1a21483fd22bb41e58a12fa3421823140897c45",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d1a21483fd22bb41e58a12fa3421823140897c45"
+}

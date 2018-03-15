@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-material-vibrancy/-/hyper-material-vibrancy-0.2.0.tgz#57a5461a5120e85732f8e6b52fe5ca15c6ba93ad",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-material-vibrancy/-/hyper-material-vibrancy-0.2.0.tgz",
+    "hash": "57a5461a5120e85732f8e6b52fe5ca15c6ba93ad",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "57a5461a5120e85732f8e6b52fe5ca15c6ba93ad"
+}

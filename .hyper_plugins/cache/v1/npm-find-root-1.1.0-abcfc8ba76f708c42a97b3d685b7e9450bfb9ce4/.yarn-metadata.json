@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/find-root/-/find-root-1.1.0.tgz#abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/find-root/-/find-root-1.1.0.tgz",
+    "hash": "abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4"
+}

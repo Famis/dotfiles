@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-alt-click/-/hyper-alt-click-0.1.1.tgz#b37bd6555f6a087bdea4fd17373649cca04f50da",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-alt-click/-/hyper-alt-click-0.1.1.tgz",
+    "hash": "b37bd6555f6a087bdea4fd17373649cca04f50da",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b37bd6555f6a087bdea4fd17373649cca04f50da"
+}

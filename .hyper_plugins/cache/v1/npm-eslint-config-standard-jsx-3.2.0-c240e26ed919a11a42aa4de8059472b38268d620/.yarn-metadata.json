@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-3.2.0.tgz#c240e26ed919a11a42aa4de8059472b38268d620",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-3.2.0.tgz",
+    "hash": "c240e26ed919a11a42aa4de8059472b38268d620",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c240e26ed919a11a42aa4de8059472b38268d620"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/run-parallel/-/run-parallel-1.1.6.tgz#29003c9a2163e01e2d2dfc90575f2c6c1d61a039",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/run-parallel/-/run-parallel-1.1.6.tgz",
+    "hash": "29003c9a2163e01e2d2dfc90575f2c6c1d61a039",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "29003c9a2163e01e2d2dfc90575f2c6c1d61a039"
+}

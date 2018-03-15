@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/clivas/-/clivas-0.2.0.tgz#b8d19188b3243e390f302410bd0cb1622db82649",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/clivas/-/clivas-0.2.0.tgz",
+    "hash": "b8d19188b3243e390f302410bd0cb1622db82649",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b8d19188b3243e390f302410bd0cb1622db82649"
+}

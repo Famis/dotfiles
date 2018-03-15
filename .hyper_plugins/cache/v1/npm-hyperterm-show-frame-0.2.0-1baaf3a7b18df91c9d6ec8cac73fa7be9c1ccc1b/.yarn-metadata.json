@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperterm-show-frame/-/hyperterm-show-frame-0.2.0.tgz#1baaf3a7b18df91c9d6ec8cac73fa7be9c1ccc1b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperterm-show-frame/-/hyperterm-show-frame-0.2.0.tgz",
+    "hash": "1baaf3a7b18df91c9d6ec8cac73fa7be9c1ccc1b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1baaf3a7b18df91c9d6ec8cac73fa7be9c1ccc1b"
+}

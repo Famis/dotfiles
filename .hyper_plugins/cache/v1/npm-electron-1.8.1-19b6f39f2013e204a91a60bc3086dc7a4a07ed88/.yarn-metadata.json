@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/electron/-/electron-1.8.1.tgz#19b6f39f2013e204a91a60bc3086dc7a4a07ed88",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/electron/-/electron-1.8.1.tgz",
+    "hash": "19b6f39f2013e204a91a60bc3086dc7a4a07ed88",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "19b6f39f2013e204a91a60bc3086dc7a4a07ed88"
+}

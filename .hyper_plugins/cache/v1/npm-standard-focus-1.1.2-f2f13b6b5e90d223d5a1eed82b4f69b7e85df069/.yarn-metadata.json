@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/standard-focus/-/standard-focus-1.1.2.tgz#f2f13b6b5e90d223d5a1eed82b4f69b7e85df069",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/standard-focus/-/standard-focus-1.1.2.tgz",
+    "hash": "f2f13b6b5e90d223d5a1eed82b4f69b7e85df069",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f2f13b6b5e90d223d5a1eed82b4f69b7e85df069"
+}

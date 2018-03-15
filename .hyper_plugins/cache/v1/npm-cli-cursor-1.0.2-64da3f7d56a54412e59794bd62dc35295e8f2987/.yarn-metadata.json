@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-1.0.2.tgz#64da3f7d56a54412e59794bd62dc35295e8f2987",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-1.0.2.tgz",
+    "hash": "64da3f7d56a54412e59794bd62dc35295e8f2987",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "64da3f7d56a54412e59794bd62dc35295e8f2987"
+}

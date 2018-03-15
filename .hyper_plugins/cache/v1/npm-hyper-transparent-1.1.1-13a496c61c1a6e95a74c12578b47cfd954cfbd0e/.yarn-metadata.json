@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-transparent/-/hyper-transparent-1.1.1.tgz#13a496c61c1a6e95a74c12578b47cfd954cfbd0e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-transparent/-/hyper-transparent-1.1.1.tgz",
+    "hash": "13a496c61c1a6e95a74c12578b47cfd954cfbd0e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "13a496c61c1a6e95a74c12578b47cfd954cfbd0e"
+}

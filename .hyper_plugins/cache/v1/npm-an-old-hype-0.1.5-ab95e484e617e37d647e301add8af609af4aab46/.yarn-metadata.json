@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/an-old-hype/-/an-old-hype-0.1.5.tgz#ab95e484e617e37d647e301add8af609af4aab46",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/an-old-hype/-/an-old-hype-0.1.5.tgz",
+    "hash": "ab95e484e617e37d647e301add8af609af4aab46",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ab95e484e617e37d647e301add8af609af4aab46"
+}

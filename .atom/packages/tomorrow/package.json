@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+        "spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/apm-install-dir-11783-23516-1cex9o.my1xv6xbt9"
+    ]
+  ],
+  "_from": "../d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+  "_id": "tomorrow@1.0.0",
+  "_inCache": true,
+  "_location": "/tomorrow",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+    "spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+  "_shasum": "38627570e0d8ba663b6d480c96b919e834a38a27",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11783-23516-1f2pd8v.ow449xjemi/package.tgz",
+  "_where": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/apm-install-dir-11783-23516-1cex9o.my1xv6xbt9",
+  "bugs": {
+    "url": "https://github.com/speric/atom-tomorrow/issues"
+  },
+  "dependencies": {},
+  "description": "An Atom port of the vim Tomorrow theme",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/speric/atom-tomorrow#readme",
+  "license": "MIT",
+  "name": "tomorrow",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "## Tomorrow Syntax Theme\n\nTomorrow is an Atom port of the vim Tomorrow theme, for syntax.\n\n![Tomorrow Syntax Theme](http://cl.ly/image/071z3g1y1A3A/download/tomorrow-cap.png)\n\n### Installation\n\nRun the following command:\n\n```sh\napm install tomorrow\n```\n\nThen go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, select `Tomorrow` from the list.\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speric/atom-tomorrow.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

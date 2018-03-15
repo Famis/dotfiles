@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/get-stdin/-/get-stdin-5.0.1.tgz#122e161591e21ff4c52530305693f20e6393a398",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/get-stdin/-/get-stdin-5.0.1.tgz",
+    "hash": "122e161591e21ff4c52530305693f20e6393a398",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "122e161591e21ff4c52530305693f20e6393a398"
+}

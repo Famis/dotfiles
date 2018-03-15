@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperterm-visor/-/hyperterm-visor-0.3.4.tgz#66418dea70c2e7e517ff778777ba0b7310a0c0d9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperterm-visor/-/hyperterm-visor-0.3.4.tgz",
+    "hash": "66418dea70c2e7e517ff778777ba0b7310a0c0d9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "66418dea70c2e7e517ff778777ba0b7310a0c0d9"
+}

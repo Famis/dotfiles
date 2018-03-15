@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/exit-hook/-/exit-hook-1.1.1.tgz#f05ca233b48c05d54fff07765df8507e95c02ff8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/exit-hook/-/exit-hook-1.1.1.tgz",
+    "hash": "f05ca233b48c05d54fff07765df8507e95c02ff8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f05ca233b48c05d54fff07765df8507e95c02ff8"
+}

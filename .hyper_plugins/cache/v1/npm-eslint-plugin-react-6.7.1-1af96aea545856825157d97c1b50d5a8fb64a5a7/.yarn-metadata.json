@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-6.7.1.tgz#1af96aea545856825157d97c1b50d5a8fb64a5a7",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-6.7.1.tgz",
+    "hash": "1af96aea545856825157d97c1b50d5a8fb64a5a7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1af96aea545856825157d97c1b50d5a8fb64a5a7"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/line-replace/-/line-replace-1.0.2.tgz#b1995da54060d671c449196fa228395f0faaea47",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/line-replace/-/line-replace-1.0.2.tgz",
+    "hash": "b1995da54060d671c449196fa228395f0faaea47",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b1995da54060d671c449196fa228395f0faaea47"
+}

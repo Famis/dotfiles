@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+        "spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/apm-install-dir-11819-58180-cg9vu2.s608loko6r"
+    ]
+  ],
+  "_from": "../d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+  "_id": "apex-ui@1.0.3",
+  "_inCache": true,
+  "_location": "/apex-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+    "spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+  "_shasum": "3e0feee1770eca3016ade612a4c32af66bef5079",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-11819-58180-t2wvvg.05xfv6xbt9/package.tgz",
+  "_where": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/apm-install-dir-11819-58180-cg9vu2.s608loko6r",
+  "bugs": {
+    "url": "https://github.com/apex/apex-ui/issues"
+  },
+  "dependencies": {},
+  "description": "Apex monochrome theme UI inspired by iA Writer",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/apex/apex-ui#readme",
+  "keywords": [
+    "apex",
+    "monochrome",
+    "ui",
+    "ia",
+    "theme",
+    "writer"
+  ],
+  "license": "MIT",
+  "name": "apex-ui",
+  "optionalDependencies": {},
+  "readme": "![Apex Atom monochrome UI](assets/logo.png)\n\n### Installation\n\n```\n$ apm install apex-ui\n```\n\n### Screenshot\n\nThis variant:\n\n![](https://raw.githubusercontent.com/apex/apex-ui/master/assets/normal.jpg)\n\nSlim variant:\n\n![](https://raw.githubusercontent.com/apex/apex-ui/master/assets/slim.jpg)\n\n## Links\n\n- Check out [Unsplash](https://unsplash.com/@tjholowaychuk) for wallpapers\n- [Remove title bar](https://atom.io/packages/no-title-bar)\n- [Apex UI Slim](https://github.com/apex/apex-ui-slim)\n- [Apex Syntax](https://github.com/apex/apex-syntax)\n\n## Badges\n\n[![](http://apex.sh/images/badge.svg)](https://apex.sh/ping/)\n![](https://img.shields.io/badge/license-MIT-blue.svg)\n\n---\n\n> [tjholowaychuk.com](http://tjholowaychuk.com) &nbsp;&middot;&nbsp;\n> GitHub [@tj](https://github.com/tj) &nbsp;&middot;&nbsp;\n> Twitter [@tjholowaychuk](https://twitter.com/tjholowaychuk)\n",
+  "readmeFilename": "Readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apex/apex-ui.git"
+  },
+  "theme": "ui",
+  "version": "1.0.3",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

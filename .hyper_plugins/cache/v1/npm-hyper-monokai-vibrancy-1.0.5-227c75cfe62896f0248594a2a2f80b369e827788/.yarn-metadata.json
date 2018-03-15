@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-monokai-vibrancy/-/hyper-monokai-vibrancy-1.0.5.tgz#227c75cfe62896f0248594a2a2f80b369e827788",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-monokai-vibrancy/-/hyper-monokai-vibrancy-1.0.5.tgz",
+    "hash": "227c75cfe62896f0248594a2a2f80b369e827788",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "227c75cfe62896f0248594a2a2f80b369e827788"
+}

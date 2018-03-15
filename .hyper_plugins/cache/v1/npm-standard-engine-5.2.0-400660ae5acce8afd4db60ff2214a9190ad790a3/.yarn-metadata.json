@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/standard-engine/-/standard-engine-5.2.0.tgz#400660ae5acce8afd4db60ff2214a9190ad790a3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/standard-engine/-/standard-engine-5.2.0.tgz",
+    "hash": "400660ae5acce8afd4db60ff2214a9190ad790a3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "400660ae5acce8afd4db60ff2214a9190ad790a3"
+}

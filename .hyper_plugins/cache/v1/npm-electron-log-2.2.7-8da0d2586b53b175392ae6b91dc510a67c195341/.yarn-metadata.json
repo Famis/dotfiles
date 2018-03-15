@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/electron-log/-/electron-log-2.2.7.tgz#8da0d2586b53b175392ae6b91dc510a67c195341",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/electron-log/-/electron-log-2.2.7.tgz",
+    "hash": "8da0d2586b53b175392ae6b91dc510a67c195341",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8da0d2586b53b175392ae6b91dc510a67c195341"
+}

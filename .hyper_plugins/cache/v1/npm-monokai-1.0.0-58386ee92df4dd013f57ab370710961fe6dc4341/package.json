@@ -1,0 +1,20 @@
+{
+  "name": "monokai",
+  "version": "1.0.0",
+  "description": "hyperterm theme based on altered monokai colour scheme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurisubrooks/hyperterm-monokai/"
+  },
+  "keywords": [
+    "hyperterm",
+    "theme",
+    "hyperterm-theme",
+    "colour",
+    "color",
+    "monokai"
+  ],
+  "author": "kurisubrooks",
+  "license": "MIT"
+}

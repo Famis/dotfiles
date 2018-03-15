@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-snazzy/-/hyper-snazzy-1.2.0.tgz#5c4a0873bb2ad3ea33b864e7c0c0a72f49863be3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-snazzy/-/hyper-snazzy-1.2.0.tgz",
+    "hash": "5c4a0873bb2ad3ea33b864e7c0c0a72f49863be3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5c4a0873bb2ad3ea33b864e7c0c0a72f49863be3"
+}

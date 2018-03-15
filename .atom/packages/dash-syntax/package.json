@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+        "spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/apm-install-dir-117119-32196-1cm3aia.gzedp74x6r"
+    ]
+  ],
+  "_from": "../d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+  "_id": "dash-syntax@0.4.1",
+  "_inCache": true,
+  "_location": "/dash-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+    "spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+  "_shasum": "de06366df3907c4b57130b64a95d5945da82336c",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/d-117119-32196-mnbxdw.8d3aii19k9/package.tgz",
+  "_where": "/private/var/folders/wk/sn30p_kj28jdw22zkhr4x5r40000gn/T/apm-install-dir-117119-32196-1cm3aia.gzedp74x6r",
+  "bugs": {
+    "url": "https://github.com/cpsdqs/dash-syntax/issues"
+  },
+  "configSchema": {
+    "cursorAnimated": {
+      "title": "Smooth Cursor Blink",
+      "order": 1,
+      "description": "Makes the cursor fade smoothly instead of blinking. Disable this if you experience issues with font rendering.",
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "dependencies": {},
+  "description": "Vibrant dark syntax theme",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "homepage": "https://github.com/cpsdqs/dash-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark"
+  ],
+  "license": "MIT",
+  "main": "./lib/dash-syntax",
+  "name": "dash-syntax",
+  "optionalDependencies": {},
+  "readme": "# dash-syntax theme\n\nVibrant dark syntax theme\n\n![screenshot](https://i.imgur.com/gS7kKbz.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpsdqs/dash-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.4.1",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/dash-syntax.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

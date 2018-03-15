@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperterm-monokai/-/hyperterm-monokai-0.1.2.tgz#d6ed3451191bef119d023e60f9d896d8d31d708d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperterm-monokai/-/hyperterm-monokai-0.1.2.tgz",
+    "hash": "d6ed3451191bef119d023e60f9d896d8d31d708d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d6ed3451191bef119d023e60f9d896d8d31d708d"
+}

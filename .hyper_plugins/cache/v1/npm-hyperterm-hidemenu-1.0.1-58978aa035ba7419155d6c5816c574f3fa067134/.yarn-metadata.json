@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperterm-hidemenu/-/hyperterm-hidemenu-1.0.1.tgz#58978aa035ba7419155d6c5816c574f3fa067134",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperterm-hidemenu/-/hyperterm-hidemenu-1.0.1.tgz",
+    "hash": "58978aa035ba7419155d6c5816c574f3fa067134",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "58978aa035ba7419155d6c5816c574f3fa067134"
+}

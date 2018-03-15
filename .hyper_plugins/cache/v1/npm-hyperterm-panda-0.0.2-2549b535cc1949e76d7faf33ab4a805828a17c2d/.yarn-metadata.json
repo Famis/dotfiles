@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyperterm-panda/-/hyperterm-panda-0.0.2.tgz#2549b535cc1949e76d7faf33ab4a805828a17c2d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyperterm-panda/-/hyperterm-panda-0.0.2.tgz",
+    "hash": "2549b535cc1949e76d7faf33ab4a805828a17c2d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2549b535cc1949e76d7faf33ab4a805828a17c2d"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/nord-hyper/-/nord-hyper-0.4.0.tgz#4c175a7e682f2014b0f7d19053627adca03584ea",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/nord-hyper/-/nord-hyper-0.4.0.tgz",
+    "hash": "4c175a7e682f2014b0f7d19053627adca03584ea",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4c175a7e682f2014b0f7d19053627adca03584ea"
+}

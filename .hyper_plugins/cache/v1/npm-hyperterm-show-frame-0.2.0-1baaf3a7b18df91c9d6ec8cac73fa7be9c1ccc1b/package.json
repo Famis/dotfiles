@@ -1,0 +1,22 @@
+{
+  "name": "hyperterm-show-frame",
+  "version": "0.2.0",
+  "description": "A plugin that enable the electron frame and hides menu. Optimal for tiling WMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjcalderon/hyperterm-show-frame.git"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": "Benjamin Calderon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjcalderon/hyperterm-show-frame/issues"
+  },
+  "homepage": "https://github.com/benjcalderon/hyperterm-show-frame#readme"
+}
