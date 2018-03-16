@@ -1,7 +1,8 @@
 # dotfiles
-# Hyper
+## MacOS 
+### Hyper
 
 ![](examples/hyperdesktop.png)
 
-# Atom
+### Atom
 ![](examples/atomdesktop.png)
