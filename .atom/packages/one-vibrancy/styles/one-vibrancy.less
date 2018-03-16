@@ -24,7 +24,7 @@
   }
   // my title bar fix
 .title-bar {
-  background-color: fade(rgba(0, 0, 0, 0.85), 75%);
+  background-color: fade(rgb(40, 44, 52, 0.85), 75%);
 }
 
   // Semi transparent background
@@ -36,7 +36,7 @@
   .tab-bar .tab.active[data-type$="StyleguideView"],
   .tab-bar .tab.active[data-type="MarkdownPreviewView"],
   .tab-bar .tab.active {
-    background-color: fade(@syntax-background-color, 30%);
+    background-color: fade(@syntax-background-color, 50%);
   }
 
   // Cursor line
@@ -81,13 +81,7 @@
     box-shadow: none;
   }
 
-  .tool-bar,
-  .tool-bar button.tool-bar-btn {
-    background-color: transparent;
-  }
-  .tool-bar button.tool-bar-btn {
-    border-color: transparent !important;
-  }
+
 
   // Git gutter
   atom-text-editor .gutter .line-number {

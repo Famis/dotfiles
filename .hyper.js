@@ -11,22 +11,7 @@ module.exports = {
       hideTabs: true, // default: false
     },
 
-    overlay: {
-      alwaysOnTop: true,
-      animate: true,
-      hasShadow: false,
-      hideDock: false,
-      hideOnBlur: false,
-      hotkeys: ['Option+Space'],
-      position: 'top',
-      primaryDisplay: false,
-      resizable: true,
-      startAlone: false,
-      startup: false,
-      size: 0.4,
-      tray: true,
-      unique: false
-    },
+
 
     materialBox: {
       backgroundVibrancy: true,
@@ -35,7 +20,7 @@ module.exports = {
       autoHideTitle: true,
       user: {
         accentColor: '#528BFF',
-        backgroundColor: '#181d22',
+        backgroundColor: '#282c34',
         cursorColor: '#528BFF',
         colors: {
           black: '#0E1112',
@@ -54,15 +39,10 @@ module.exports = {
           lightMagenta: '#8c63d9',
           lightCyan: '#43c5e5',
           lightWhite: '#dbe5ed',
-        },
+        }
       },
     },
-    visor: {
-      hotkey: 'CommandOrControl+Shift+Z',
-      position: 'top', // or left, right, bottom
-      width: 200, // Optional, defaults to half of viewable area for horizontal positions, 100% for vertical
-      height: 900, // Optional, defaults to half of viewable area for vertical positions, 100% for horizontal
-    },
+
 
 
 
@@ -85,7 +65,7 @@ module.exports = {
     foregroundColor: '#fff',
 
     // terminal background color
-    backgroundColor: '#272822',
+    backgroundColor: '#282c34',
 
     // border color (window, tabs)
     borderColor: '#000',
@@ -112,22 +92,22 @@ module.exports = {
     // including the 6 x 6 color cubes and the grayscale map, just provide
     // an array here instead of a color map object
     colors: {
-      black: '#000000',
-      red: '#ff0000',
-      green: '#33ff00',
-      yellow: '#ffff00',
-      blue: '#0066ff',
-      magenta: '#cc00ff',
-      cyan: '#00ffff',
-      white: '#d0d0d0',
-      lightBlack: '#808080',
-      lightRed: '#ff0000',
-      lightGreen: '#33ff00',
-      lightYellow: '#ffff00',
-      lightBlue: '#0066ff',
-      lightMagenta: '#cc00ff',
-      lightCyan: '#00ffff',
-      lightWhite: '#ffffff'
+      black: '#0E1112',
+      red: '#f54784',
+      green: '#4ebc6b',
+      yellow: '#ffb91b',
+      blue: '#5b85ff',
+      magenta: '#8c63d9',
+      cyan: '#43c5e5',
+      white: '#dbe5ed',
+      lightBlack: '#4D5A5E',
+      lightRed: '#f54784',
+      lightGreen: '#4ebc6b',
+      lightYellow: '#ffb91b',
+      lightBlue: '#5b85ff',
+      lightMagenta: '#8c63d9',
+      lightCyan: '#43c5e5',
+      lightWhite: '#dbe5ed',
     },
 
     // the shell to run when spawning a new session (i.e. /usr/local/bin/fish)
@@ -175,11 +155,7 @@ module.exports = {
   //   `project#1.0.1`
   plugins: [
     "hyper-material-box",
-    //"hyperterm-visor",//
     "hyper-statusline",
-    //"hyperminimal",
-    //'hyperterm-overlay',//
-    //'hyperclean',
   ],
 
   // in development, you can create a directory under
